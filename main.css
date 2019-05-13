@@ -1,0 +1,24 @@
+body{
+	font-size: 15px;
+	background: #74fd74d6;
+}
+header{
+	font-size: 32px;
+    text-align: center;
+    font-family: cursive;
+}
+article{
+	font-style: oblique;
+    font-family: monospace;
+    font-weight: normal;
+    padding: 10px;
+    border: 7px solid #673AB7;
+    border-radius: 10px;
+    margin-bottom: 29px;
+}
+.last{
+	    font-size: 29px;
+    font-weight: bold;
+    text-align: center;
+}
+}
